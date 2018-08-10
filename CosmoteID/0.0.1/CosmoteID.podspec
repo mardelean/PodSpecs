@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.summary          = 'A short description of CosmoteID.'
   s.description      = "COSMOTE ID Description"
   s.homepage         = "http://cosmote.gr"
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  s.license          = { :type => 'MIT', :text => "Copyright 2012"}
   s.author           = { 'Kyriakos Mpiskinis' => 'mpiskinis@thinkdesquared.com' }
   s.ios.deployment_target = '9.0'
 
