@@ -20,9 +20,9 @@ Pod::Spec.new do |s|
 
   # Source
   s.source = {
-    :http => 'http://libraries.thinkdesquared.com/CosmoteID/0.0.1/Framework.zip'
+    :http => 'http://libraries.thinkdesquared.com/CosmoteID/0.0.1/CosmoteID.zip'
   }
-  s.vendored_frameworks = 'Frameworks/CosmoteID.framework'
+  s.vendored_frameworks = 'iOS/CosmoteID.framework'
 
   # Dependencies
   s.dependency 'AlamofireObjectMapper', '~> 4.0'
