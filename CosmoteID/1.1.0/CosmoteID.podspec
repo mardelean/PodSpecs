@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   s.preserve_paths = 'CosmoteID/Frameworks/*.framework'
 
   # Dependencies
-  s.dependency 'AlamofireObjectMapper', '~> 5.1.0'
+  s.dependency 'AlamofireObjectMapper', '~> 5.2.0'
   s.dependency 'MBProgressHUD', '~> 1.0'
   s.dependency 'ReachabilitySwift', '~> 3.0'
   s.dependency 'KeychainAccess', '~> 3.1.2'
